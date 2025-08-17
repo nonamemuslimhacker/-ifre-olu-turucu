@@ -1,3 +1,4 @@
 # şifre oluşturucu
-güçlü şifreler oluşturmanıza ve bu şifreleri panoya kaydetmenizi sağlayan bir solition
-başlatmak için şifre_arayüz.py uygulamasını açın
+Güçlü şifreler oluşturmanıza ve bu şifreleri panoya kaydetmenizi sağlayan bir solition.
+
+Başlatmak için şifre_arayüz.py uygulamasını açın.
